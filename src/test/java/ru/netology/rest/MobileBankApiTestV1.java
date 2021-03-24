@@ -20,7 +20,7 @@ class MobileBankApiTestV1 {
                 .then()
                 .statusCode(200)
                 //.body(equalTo("some data"));
-                .body("data",equalTo("some data"));
+                //.body("data",equalTo("some data"));
 //                .body("headers.content-type",equalTo("text/plain; charset=ISO-8859-1"));
     }
 }
