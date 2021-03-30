@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/74503846/112345619-3f6e1100-8cd6-11eb-909b-806aadcc733d.png)
+[![Build status](https://ci.appveyor.com/api/projects/status/p9vxx92kfrwybycv?svg=true)](https://ci.appveyor.com/project/Irina04041987/hw-ci-1-2-3)
